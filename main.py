@@ -3,7 +3,7 @@ import random
 
 tim = Turtle()
 colours = ["purple", "red", "blue", "brown", "pink", "black", "yellow", "green"]
-angles = [90, 180, 360, 0]
+angles = [90, 180, 270, 0]
 
 
 def moving():
