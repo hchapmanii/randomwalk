@@ -4,7 +4,7 @@ import random
 
 tim = Turtle()
 turtle.colormode(255)
-angles = [90, 180, 360, 0]
+angles = [90, 180, 270, 0]
 
 
 def colors():
